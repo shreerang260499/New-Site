@@ -11,9 +11,9 @@ app.use(bodyParser.json());
 // MySQL Connection
 const db = mysql.createConnection({
   host: "localhost",
-  user: "root",
-  password: "yourpassword",
-  database: "yourdatabase",
+  user: "u112197766_shreerang2604",
+  password: "Ssse@77892604",
+  database: "shreerang",
 });
 
 db.connect((err) => {
@@ -38,3 +38,6 @@ app.get("/api/orders", (req, res) => {
 app.listen(5000, () => {
   console.log("Backend running at http://localhost:5000");
 });
+
+// package.json scripts
+// "start": "ts-node server.ts"
