@@ -10,8 +10,8 @@ const Hero = () => {
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24">
         <div className="text-center">
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
-            Premium Digital
-            <span className="block text-yellow-400">CNC & Print Designs</span>
+            Shree Rang Designs
+            <span className="block text-yellow-400">Premium Digital Files</span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-blue-100 max-w-3xl mx-auto">
             High-quality SVG, DXF, STL files for CNC machines, laser cutters, and 3D printers. 

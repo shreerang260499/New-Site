@@ -14,7 +14,7 @@ const Header = () => {
           <div className="flex items-center justify-between h-16">
             {/* Logo */}
             <div className="flex items-center">
-              <h1 className="text-2xl font-bold text-blue-600">DesignVault</h1>
+              <h1 className="text-2xl font-bold text-blue-600">Shree Rang Designs</h1>
               <span className="ml-2 text-sm text-gray-500">Digital CNC & Print Files</span>
             </div>
 
